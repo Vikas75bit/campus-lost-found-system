@@ -1,0 +1,1 @@
+A smart, centralized platform that helps university students report lost belongings, enables staff to manage found items, and uses semantic similarity to recommend potential matches while maintaining human-verified ownership claims and accountable handovers.
